@@ -1,4 +1,4 @@
-# README for Provided Python Scripts
+# README for Python Scripts
 
 ## Overview
 
